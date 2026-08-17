@@ -39,14 +39,14 @@ https://live15p.hotstar.com/hls/live/2123207/inallow-fihmwc-2026/eng/1540075789/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076190/15mindvrm02e0a48f8b6a8643e28382e1a1fdbc573b17august2026/master_ap.m3u8?a=ns&hdnea=exp=1786967042~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076190/15mindvrm02e0a48f8b6a8643e28382e1a1fdbc573b17august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=DCe8f8A2WNNoVbbrlYOIXXhT06nlzPJLO9g8I0Op9HMQ-did=QEHEhE1Ghu70B6iI94O9Tg7oVMqdMCnwECri6EhSm6xj-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.01.01.6-ut=paid-ttl=1800-type=paid-raf=1786965842-~hmac=bd2e7383e67efee6002bd8f19dcda7572303202d60c3228a4684eceb014c370b
-#DATE:- 17-08-2026 18:40
+#DATE:- 17-08-2026 21:26
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090539452" tvg-name="IndianOil Durand Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022301/1786879171557753_DurandCup_QF_Shillong_Lajong_FC_vs_NorthEast_United_FC_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Shillong Lajong FC vs NorthEast United FC - Quarter Final 4 - 17 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/Football1708/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7999fdef275681bb07dc9506426b3226-1786972201220
+#EXTINF:-1 tvg-id="1090538390" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022062/1786455674318131_KBC_S18_Generic_Simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Kaun Banega Crorepati
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000381/kbc181708/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a0cb2bd7be57d8007e1e3add9e7bcc81-1786982153647
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Monday, 17 August 2026 at 7:56:32 pm
+#DATE:- Monday, 17 August 2026 at 9:56:31 pm
 #EXTINF:-1 tvg-id="4247993" tvg-name="West Delhi Lions Vs South Delhi Superstarz" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png" tvg-language="English" group-title="Cricket",ENG | West Delhi Lions Vs South Delhi Superstarz
 https://dai-fancode.pages.dev/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248333" tvg-name="Noida Kings Vs Lucknow Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png" tvg-language="Hindi" group-title="Cricket",HIN | Noida Kings Vs Lucknow Falcons
@@ -59,6 +59,10 @@ https://dai-fancode.pages.dev/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_
 https://dai-fancode.pages.dev/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248366" tvg-name="Oman Vs Goa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png" tvg-language="English" group-title="Cricket",ENG | Oman Vs Goa
 https://dai-fancode.pages.dev/mumbai/4248366_english_hls_93b60011cd4505_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248123" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" tvg-language="English" group-title="Tennis",ENG | World Feed
+https://dai-fancode.pages.dev/mumbai/4248123_english_hls_079996aa1121319_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248124" tvg-name="Court 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" tvg-language="English" group-title="Tennis",ENG | Court 4
+https://dai-fancode.pages.dev/mumbai/4248124_english_hls_4b87b954b990993_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #DATE:- 17-08-2026 18:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
