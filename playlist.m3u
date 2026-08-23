@@ -107,32 +107,18 @@ https://live13p.hotstar.com/hls/live/2123084/inallow-kcl-2026/eng/1540076261/15m
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live14p.hotstar.com/hls/live/2123147/inallow-kcl-2026/mal/1540076261/15mindvrm020ab2fa02e909475fa477adf238b68ffe23august2026/master_ap.m3u8?a=ns&hdnea=exp=1787507412~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076261/15mindvrm020ab2fa02e909475fa477adf238b68ffe23august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=z2wFaIesLvXI380t8M5aSamKe840aX2MoW3hBHw7UAVx-did=44u1kkklhyhdYrr0A3TtkAODkM0eC059XDHhtzLuauZM-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.12.24.3-ut=paid-ttl=1800-type=paid-raf=1787506212-~hmac=127f081996824e5c0ccb1e09a5255204794978a579012fb8733cedd66caa9d47
-#DATE:- 23-08-2026 21:40
-# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#DATE:- 23-08-2026 23:20
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 23 August 2026 at 10:28:16 pm
-#EXTINF:-1 tvg-id="4248002" tvg-name="North Delhi Strikers Vs Outer Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png" tvg-language="English" group-title="Cricket",ENG | North Delhi Strikers Vs Outer Delhi Warriors
-https://dai-fancode.pages.dev/mumbai/4248002_english_hls_74cda68c1125354_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="1090540054" tvg-name="LIV Golf" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702497412697_LIV_Golf_Indianapolis_day4_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | Indianapolis - Day 4 - 23 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/LIVGolf_2308/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4dfbe7cc8924fce02cf05ced534f4356-1787507404040
+# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#DATE:- Sunday, 23 August 2026 at 11:42:15 pm
 #EXTINF:-1 tvg-id="4248348" tvg-name="Gaur Gorakhpur Lions Vs Meerut Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" tvg-language="Hindi" group-title="Cricket",HIN | Gaur Gorakhpur Lions Vs Meerut Mavericks
 https://dai-fancode.pages.dev/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248348" tvg-name="Gaur Gorakhpur Lions Vs Meerut Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" tvg-language="Bhojpuri" group-title="Cricket",BHO | Gaur Gorakhpur Lions Vs Meerut Mavericks
 https://dai-fancode.pages.dev/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4247578" tvg-name="Atletico De Madrid Vs Villarreal Cf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png" group-title="Football",[DRM] ENG | Atletico De Madrid Vs Villarreal Cf
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"ud6yjV1Bf_gO3gIWKgoMkQ","kid":"wMpKXXpcQnCff9tQ1W7JOw","kty":"oct"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://in-mc-flive.fancode.com/mumbai/4247578_english_dash_31584_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="4248394" tvg-name="Eibar Vs Real Valladolid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png" tvg-language="English" group-title="Football",ENG | Eibar Vs Real Valladolid
-https://dai-fancode.pages.dev/mumbai/4248394_english_hls_8e9a20fa889478_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248417" tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" tvg-language="English" group-title="Golf",ENG | Main Feed   Day 4
-https://dai-fancode.pages.dev/mumbai/4248417_english_hls_523079a4ce80996_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248413" tvg-name="World Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" tvg-language="English" group-title="Golf",ENG | World Feed   Day 4
-https://dai-fancode.pages.dev/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4247584" tvg-name="Getafe Cf Vs Racing Club De Santander" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247584_53004_GEF_RAC_FC-Web.png" group-title="Football",[DRM] ENG | Getafe Cf Vs Racing Club De Santander
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -142,6 +128,14 @@ https://dai-fancode.pages.dev/mumbai/4248413_english_hls_34d823adf835301_1ta-di_
 #EXTVLCOPT:http-referrer=https://fancode.com/
 #EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
 https://in-mc-flive.fancode.com/mumbai/4247584_english_dash_12088_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-id="4248417" tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" tvg-language="English" group-title="Golf",ENG | Main Feed   Day 4
+https://dai-fancode.pages.dev/mumbai/4248417_english_hls_523079a4ce80996_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248413" tvg-name="World Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" tvg-language="English" group-title="Golf",ENG | World Feed   Day 4
+https://dai-fancode.pages.dev/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248148" tvg-name="Doubles Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" tvg-language="English" group-title="Tennis",ENG | Doubles Finals
+https://dai-fancode.pages.dev/mumbai/4248148_english_hls_012334bd0283018_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248528" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png" tvg-language="English" group-title="Golf",ENG | Day 2
+https://dai-fancode.pages.dev/mumbai/4248528_english_hls_2cba71094556931_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #DATE:- 21-08-2026 21:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
