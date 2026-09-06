@@ -25,22 +25,30 @@ https://live13p.hotstar.com/hls/live/2123084/inallow-kcl-2026/eng/1540076318/15m
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live14p.hotstar.com/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap.m3u8?a=ns&hdnea=exp=1788352103~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.04.8-ut=paid-ttl=1800-type=paid-raf=1788350903-~hmac=017a91a8e489a1257c02922ea345fc829e2d372ccbf35c26fa2dee6d1cbe5f01
-#DATE:- 06-09-2026 18:00
+#DATE:- 06-09-2026 21:40
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090541579" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023401/1788419688654373_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN |  Ludhiana Lions vs Fazilka Falcons - 6 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0609/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7c1aa7e6a2202ec5f5f5e4f3eb24dc37-1788697800368
-#EXTINF:-1 tvg-id="1090541579" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023401/1788419688654373_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_live_landscape_thumb.jpg" tvg-language="Punjabi" group-title="Cricket",PAN |  Ludhiana Lions vs Fazilka Falcons - 6 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0609/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7c1aa7e6a2202ec5f5f5e4f3eb24dc37-1788697800368
+#EXTINF:-1 tvg-id="1090541551" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023515/1788557884318648_AWC26_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Sri Lanka Women vs Bangladesh Women - 6 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0609/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aba55d0428684eb2add43b24473b2674-1788711002617
+#EXTINF:-1 tvg-id="1090541551" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023515/1788557884318648_AWC26_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Sri Lanka Women vs Bangladesh Women - 6 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0609/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aba55d0428684eb2add43b24473b2674-1788711002617
+#EXTINF:-1 tvg-id="1090541551" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023515/1788557884318648_AWC26_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="Cricket",TAM | Sri Lanka Women vs Bangladesh Women - 6 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0609/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aba55d0428684eb2add43b24473b2674-1788711002617
+#EXTINF:-1 tvg-id="1090541551" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023515/1788557884318648_AWC26_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="Cricket",TEL | Sri Lanka Women vs Bangladesh Women - 6 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0609/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aba55d0428684eb2add43b24473b2674-1788711002617
+#EXTINF:-1 tvg-id="1090541551" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023515/1788557884318648_AWC26_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Cricket",KAN | Sri Lanka Women vs Bangladesh Women - 6 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0609/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aba55d0428684eb2add43b24473b2674-1788711002617
+#EXTINF:-1 tvg-id="1090541579" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788703938951144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN |  Ludhiana Lions vs Fazilka Falcons - 6 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0609/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aba55d0428684eb2add43b24473b2674-1788711002617
+#EXTINF:-1 tvg-id="1090541579" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788703938951144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_landscape_thumb.jpg" tvg-language="Punjabi" group-title="Cricket",PAN |  Ludhiana Lions vs Fazilka Falcons - 6 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0609/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aba55d0428684eb2add43b24473b2674-1788711002617
 #EXTINF:-1 tvg-id="1090541545" tvg-name="Ireland Women's Tour of England 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333199816860_ENGW_vs_IREW_3odi_landscape.jpg" tvg-language="English" group-title="Cricket",ENG | 3rd ODI - 6 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/criclive0609/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7c1aa7e6a2202ec5f5f5e4f3eb24dc37-1788697800368
-#EXTINF:-1 tvg-id="1090541651" tvg-name="Volleyball Championship League 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023497/1788536600255108_VCL26_Auction_live_landscape_thumb.jpg" tvg-language="English" group-title="Volleyball",ENG | Auction - 6 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Volleyba0609/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7c1aa7e6a2202ec5f5f5e4f3eb24dc37-1788697800368
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/criclive0609/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aba55d0428684eb2add43b24473b2674-1788711002617
 #EXTINF:-1 tvg-id="1090541532" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341923917287_DP-World-2026-Omega-European-Masters_Day4_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | Omega European Masters - Day 4 - 6 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/Golf_Ome0609/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7c1aa7e6a2202ec5f5f5e4f3eb24dc37-1788697800368
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/Golf_Ome0609/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=aba55d0428684eb2add43b24473b2674-1788711002617
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 6 September 2026 at 7:21:13 pm
+#DATE:- Sunday, 6 September 2026 at 9:35:17 pm
 #EXTINF:-1 tvg-id="4249109" tvg-name="Fazilka Falcons Vs Ludhiana Lions" tvg-logo="https://images.fancode.com/aig/match/v1788273996406/4249109_CASACARDS_SPORTY_APP.png" tvg-language="Hindi" group-title="Cricket",HIN | Fazilka Falcons Vs Ludhiana Lions
 https://dai-fancode.pages.dev/mumbai/4249109_hindi_hls_774a3c0f1324498_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4249109" tvg-name="Fazilka Falcons Vs Ludhiana Lions" tvg-logo="https://images.fancode.com/aig/match/v1788273996406/4249109_CASACARDS_SPORTY_APP.png" tvg-language="Punjabi" group-title="Cricket",PUN | Fazilka Falcons Vs Ludhiana Lions
@@ -62,43 +70,24 @@ https://dai-fancode.pages.dev/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_
 #EXTVLCOPT:http-referrer=https://fancode.com/
 #EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
 https://in-mc-flive.fancode.com/mumbai/4247601_english_dash_64215_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="4248646" tvg-name="Eibar Vs Granada" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248646_53017_EIB_GRD_FC-Web.png" tvg-language="English" group-title="Football",ENG | Eibar Vs Granada
-https://dai-fancode.pages.dev/mumbai/4248646_english_hls_64fa5df2b96260_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248467" tvg-name="Charlton Athletic F.c Women Vs Liverpool Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248467_53038_CHL-W_LIV-W_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Charlton Athletic F.c Women Vs Liverpool Women
-https://dai-fancode.pages.dev/mumbai/4248467_english_hls_25b283d24c97051_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248468" tvg-name="Crystal Palace Women Vs Everton Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248468_53038_CP-W_EVE-W_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Crystal Palace Women Vs Everton Women
-https://dai-fancode.pages.dev/mumbai/4248468_english_hls_3f8132c31e97813_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248469" tvg-name="Manchester City Women Vs Birmingham City F.c. Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248469_53038_MCI-W_BIR-W_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Manchester City Women Vs Birmingham City F.c. Women
-https://dai-fancode.pages.dev/mumbai/4248469_english_hls_1d2ed7cd8130120_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248462" tvg-name="South Africa Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | South Africa Vs Zimbabwe
-https://dai-fancode.pages.dev/mumbai/4248462_english_hls_3323cc3e7d95656_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139486" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",[DRM] ENG | Race
+#EXTINF:-1 tvg-id="4247598" tvg-name="Deportivo Alaves Vs Ca Osasuna" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247598_53004_ALA_OSN_FC-Web.png" group-title="Football",[DRM] ENG | Deportivo Alaves Vs Ca Osasuna
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"wxAXrRi6JkMmjlvv2cby4A","kid":"RxJAVUqSRsGPq6EGmKxjCA","kty":"oct"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"ftQTnlHAN9XYk__2c9h85w","kid":"pdYBY3M9S-a0S863yrPiGQ","kty":"oct"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 #EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://in-mc-flive.fancode.com/mumbai/139486_english_dash_67174_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="139486" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",[DRM] HIN | Race
+https://in-mc-flive.fancode.com/mumbai/4247598_english_dash_8464_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-id="4247607" tvg-name="Malaga Vs Levante" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247607_53004_MAG_LET_FC-Web.png" group-title="Football",[DRM] ENG | Malaga Vs Levante
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"fGRHCqApuJMoARw-OLwBTg","kid":"kUf92006Svy6uqYRxoDfDQ","kty":"oct"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"-w-SfD7Eq78CHnNGLl3S2A","kid":"-T_tUhSyQuCVNgzHmgmXcA","kty":"oct"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 #EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://in-mc-flive.fancode.com/mumbai/139486_hindi_dash_25534_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="139486" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png" group-title="Formula 1",[DRM] TAM | Race
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"K4UGdNG1zTi99L2Is00z-w","kid":"GUPox3CCRmWrBA_shpWAJA","kty":"oct"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://in-mc-flive.fancode.com/mumbai/139486_tamil_dash_10216_1drmta-di_h264/index.mpd
+https://in-mc-flive.fancode.com/mumbai/4247607_english_dash_32768_1drmta-di_h264/index.mpd
 #DATE:- 06-09-2026 16:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
